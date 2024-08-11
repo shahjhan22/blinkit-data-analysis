@@ -45,10 +45,12 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
    - **Chart Type**: Pie Chart.
 
 5. **Sales by Outlet Size**:
+   
    -**Objective**: Analyze the correlation between outlet size and total sales.
    - **Chart Type**: Donut/ Pie Chart.
      
 6.**All Metrics by Outlet Type**:
+
    -**Objective**: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.
    - **Chart Type**: Matrix Card.
 
