@@ -1,5 +1,18 @@
-# blinkit-data-analysis
-## STEPS IN PROJECT
+# Blinkit Dashboard   
+## Table of Contents
+- [Business Requirement](#Business-Requirement)
+- [ Project Demo](#Project-Demo)
+- [Steps in Project](#Steps-in-Project)
+- [KPI's Requirements](#KPI's-Requirements)
+- [Chart's Requirements](#Chart's-Requirements)
+
+## Business Requirement
+
+To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
+
+## Project Demo
+https://github.com/user-attachments/assets/98782e61-1539-4d9f-a63d-e4bec57716ad
+## Steps in Project
 
 1. **Requirement Gathering/Business Requirements**
 2. **Data Walkthrough**
@@ -13,9 +26,6 @@
 10. **Dashboard / Report Development**
 11. **Insights Generation**
 
-## Business Requirement
-
-To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
 
 ## KPI's Requirements
 1. **Total Sales**: The overall revenue generated from all items sold.
